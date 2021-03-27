@@ -1,5 +1,6 @@
 body{
+	background-color: green;
 	color: deeppink;
-	text-align: center;
-	font-family: "Arial";
+	align: center;
+	font: "Arial";
 }
